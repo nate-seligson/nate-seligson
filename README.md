@@ -1,10 +1,11 @@
 # 👋 Hi, I’m @nate-seligson
 
-## Hello! I'm Nate Seligson, and I'm an 18 year old Computer Science student with an AI Specialization at Depaul University.
+## Hello! I'm Nate Seligson, and I'm an 18 year old Intelligent Systems Engineering Major at DePaul University
 
 ### A few facts about me:
-- I've been coding for three years
+- I've been coding for four years
 - I have internship experience
+- I've worked on multiple hardware and software projects
 - My dream job is to be a Software Engineer.
 - I have experience in Javascript, Java, C#, and Python
 - I have created and released multiple games and apps.
@@ -12,8 +13,3 @@
 ## Questions?
 
 **Email:** nseligson1@gmail.com
-
-<!---
-nate-seligson/nate-seligson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
